@@ -103,7 +103,8 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 ---
 
 ## 🎮 Controller & Communication
-
+| Controller System |
+| ----------------- |
 | ![Controller System](docs/images/hardware-setup.png) |
 
 * Wireless transmitter–receiver setup
