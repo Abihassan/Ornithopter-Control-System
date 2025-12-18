@@ -152,7 +152,9 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 ornithopter-control-system/
 ├── arduino/
 │   ├── transmitter/
+|   |  └── transmitter.ino
 │   └── receiver/
+|      └── receiver.ino
 ├── ml/
 │   └── fire_detection.py
 ├── docs/
