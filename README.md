@@ -160,9 +160,9 @@ ornithopter-control-system/
 ## 👨‍🎓 Author
 
 **Abihassan K**
-🎓 B.Tech – Computer Science and Engineering
-🏫 Hindustan Institute of Technology and Science, Chennai
-📧 Email: [Abihassan415.k@gmail.com](mailto:Abihassan415.k@gmail.com)
+*🎓 B.Tech – Computer Science and Engineering
+*🏫 Hindustan Institute of Technology and Science, Chennai
+*📧 Email: [Abihassan415.k@gmail.com](mailto:Abihassan415.k@gmail.com)
 
 ---
 
