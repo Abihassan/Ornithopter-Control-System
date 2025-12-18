@@ -87,7 +87,10 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 
 ## 🔥 Machine Learning – Fire Detection
 
-![Fire Detection Demo](docs/images/fire-detection.png)
+| No Fire Detected | Fire Detected |
+|-----------|-----------------|
+| ![No Fire Detected](docs/images/f1.png) | ![Fire Detected](docs/images/f2.png) |
+
 
 * YOLO-based object detection
 * Real-time fire and smoke recognition
@@ -98,7 +101,7 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 
 ## 🎮 Controller & Communication
 
-![Controller System](docs/images/controller-system.png)
+![Controller System](docs/images/hardware-setup.png)
 
 * Wireless transmitter–receiver setup
 * Low-latency communication
