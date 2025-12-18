@@ -57,7 +57,7 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 
 ## 🔧 Hardware Stack
 
-![Hardware Setup](docs/images/hardware-setup.png)
+| ![Hardware Setup](docs/images/hardware-setup.png) |
 
 * Arduino Nano
 * Coreless DC Motors + Propellers
@@ -101,7 +101,7 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 
 ## 🎮 Controller & Communication
 
-![Controller System](docs/images/hardware-setup.png)
+| ![Controller System](docs/images/hardware-setup.png) |
 
 * Wireless transmitter–receiver setup
 * Low-latency communication
