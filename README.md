@@ -42,7 +42,8 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 ## 🧠 System Architecture
 
 ### Overall Architecture
-
+| System Architecture |
+| ------------------- |
 ![System Architecture](docs/images/system-architecture.png)
 
 **Modules:**
@@ -56,8 +57,10 @@ It is designed for **defense surveillance**, **search & rescue**, and **disaster
 ---
 
 ## 🔧 Hardware Stack
-
+| Hardware Setup |
+|----------------|
 | ![Hardware Setup](docs/images/hardware-setup.png) |
+
 
 * Arduino Nano
 * Coreless DC Motors + Propellers
